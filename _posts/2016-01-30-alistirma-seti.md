@@ -10,20 +10,28 @@ Teorik dağılımlar ile örneklemler üzerinden istatistiklerin ilişkileri
 
 ###Alıştırma 1
 a)	1500 uzunluğunda parametresi λ = 1/3 olan bir üssel (exponential) dağılımdan 1500 uzunluğunda bir vektör yaratalım.
+
 b)	Bu vektörün çubuk grafiğini (histogram) ve kutu grafiğini (boxplot) çizelim.
 
 ###Alıştırma 2
 
 a) 3 ile 10 arasında tekdüze (uniform) dağılımdan gelen 100 tane sayı yaratalım ve bu sayıların özet (summary) istatistiklerini hesaplayalım. 
+
 b) Oluşturduğunuz vektörde 5’ten büyük sayılar tüm sayıların yüzde kaçını oluşturur?
+
 c) 3 ile 10 arasında tekdüze dağılımın teorik olarak 5’ten büyük olma olasılığı nedir? a şıkkında bulunan sayı ile bu olasılığı karşılatırın. 
+
 d) a şıkkında hesapladığımız yüzdeyi 100 yerine 1000 tane rastgele üretilmiş sayı üzerinden hesaplayalım ve sonuçları karşılaştıralım. Ne gibi bir sonuca varıyorsunuz?
 
 ###Alıştırma 3
 a)	Ortalaması 8, varyansı 25 olan bir Normal dağılımdan 2000 tane rastgele sayı üretelim.
+
 b)	Oluşturduğunuz vektörün yüzde kaçı 9’dan büyük ya da eşittir?.  
+
 c)	Ürettiğiniz 2000 sayının örneklem ortalaması ve standart sapması nedir? Bu değerleri dağılımın ortalaması ve standart sapması ile karşılaştırın.
+
 d)	Ortalaması 8, varyansı 25 olan bir Normal dağılımın teorik yirmeştebirlik (25th percentile) ve yetmişbeştebirlik (75th percentile) değerleri nedir?
+
 e)	Oluşturduğunuz 2000 sayının özet istatiklerini çıkaralım. Bu değerlerden yirmeştebirlik ve yetmişbeştebirlikleri teorik değerler ile karşılaştıralım.
 
 Döngüler, koşullar ve bunların benzetim (simülasyon) amaçlı kullanımı
@@ -48,7 +56,9 @@ Bu alıştırmada matrixler üzerinde çeşitli operasyonları denemek temel ama
 Birbirinden bağımsız ve aynı olasılık dağılımı ile dağılan sayıların (independently and identically distributed) n tane sayının ortalaması Normal dağılıma yakınsar. Bu genellikle n 30’dan büyük iken geçerlidir.
 
 Bunun için 1000 tane örneklem yaratacağız. Her örneklem n tane gözlem içeriyor diyelim. Dağılımımız Poisson olsun. 
+
 a)	n=2, 5, 10, 30, 50 ve 100 olduğu durumlarda hesapladığımız 1000 ortalamanın çubuk grafiğini (histogram) çizelim.
+
 b)	n arttıkça ne gözlemliyorsunuz?
 
 
