@@ -9,7 +9,7 @@ title: Alıştırma Seti
 Teorik dağılımlar ile örneklemler üzerinden istatistiklerin ilişkileri
 
 ###Alıştırma 1
-a)	1500 uzunluğunda parametresi λ = 1/3 olan bir üssel (exponential) dağılımdan 1500 uzunluğunda bir vektör yaratalım.
+a)	1500 uzunluğunda parametresi $$\lambda = 1/3$$ olan bir üssel (exponential) dağılımdan 1500 uzunluğunda bir vektör yaratalım.
 
 b)	Bu vektörün çubuk grafiğini (histogram) ve kutu grafiğini (boxplot) çizelim.
 
