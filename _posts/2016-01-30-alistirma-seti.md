@@ -3,9 +3,6 @@ layout: post
 title: Alıştırma Seti
 ---
 
-
-#Alıştırma Seti
-
 Teorik dağılımlar ile örneklemler üzerinden istatistiklerin ilişkileri
 
 ###Alıştırma 1
